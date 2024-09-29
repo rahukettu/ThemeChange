@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="md_theme_light_primary">#FF5BC0BE</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="Primary">#353E43</color>
+    <color name="ColorOnPrimary">#000000</color>
+
+    <!-- Dark mode primary colors -->
+    <color name="md_theme_dark_primary">#BB87AC</color>
+    <color name="md_theme_dark_onPrimary">#000000</color>
+    <color name ="Secondary">#034748</color>
+    <color name="ColorOnSecondary">#F6F1D1</color>
+
+    <!-- Surface, background, and other important colors -->
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#000000</color>
+
+    <color name="md_theme_light_background">#F0F0F0</color>
+    <color name="md_theme_light_onBackground">#000000</color>
+
+</resources>
